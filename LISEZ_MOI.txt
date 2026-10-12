@@ -1,0 +1,22 @@
+DÉBATTEMENT V3.4 — 1 capteur
+
+Modifications de cette version :
+- suppression du titre "GOUVERNE"
+- suppression complète du bloc "MAX ABSOLU"
+- affichage conservé :
+  * angle courant
+  * jauge -45 / 0 / +45
+  * MAX +
+  * MAX -
+  * RAZ MAX
+  * ZERO
+  * état CAPTEUR
+
+Installation :
+Remplacer :
+  /scripts/DEBATTEMENT/main.lua
+par le fichier main.lua de cette version.
+
+Réglages :
+- Source Trainer : Élève 2 / Trainer 2
+- 100 % = 18,2° au départ
